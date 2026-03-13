@@ -1,3 +1,5 @@
-# Repository setup required :wave:
-    
-Please visit the website URL :point_right: for this repository to complete the setup of this repository and configure access controls.
+# Chat with Your Data in a Day Workshop
+
+## FabCon 2026 - Atlanta
+
+This repository contains workshop materials for the Chat with your Data workshop at the Microsoft Fabric Community Conference 2026.
